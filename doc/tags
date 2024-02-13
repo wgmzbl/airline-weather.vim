@@ -1,0 +1,10 @@
+weather-appid	weather.txt	/*weather-appid*
+weather-cache	weather.txt	/*weather-cache*
+weather-configuration	weather.txt	/*weather-configuration*
+weather-format	weather.txt	/*weather-format*
+weather-introduction	weather.txt	/*weather-introduction*
+weather-location	weather.txt	/*weather-location*
+weather-refresh	weather.txt	/*weather-refresh*
+weather-status	weather.txt	/*weather-status*
+weather-unit	weather.txt	/*weather-unit*
+weather.txt	weather.txt	/*weather.txt*
